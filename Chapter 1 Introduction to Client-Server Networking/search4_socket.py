@@ -22,6 +22,7 @@ def geocode(address):
             break
         raw_reply +=more
 
+    print(type(sock))
     print(type(raw_reply.decode('utf-8')))
     print(raw_reply.decode('utf-8'))
 
