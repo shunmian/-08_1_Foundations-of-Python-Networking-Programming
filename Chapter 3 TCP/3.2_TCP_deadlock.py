@@ -8,6 +8,7 @@ def server(interface, port, bytecount):
     sock.listen(1)
     while True:
         conn, sockname = sock.accept()
+        f = conn.makefile()
         byte_received = 0
         bytecount = (bytecount + 15) // 16 * 16
         data = b''
@@ -24,8 +25,7 @@ def server(interface, port, bytecount):
             print('server send   : {}; progress: {:.2f}%'.format(data.decode('utf-8'), byte_received/bytecount * 100))
             sys.stdout.flush()
         print('Farewell')
-        f = conn.makefile()
-        print('file read: {}'.format(f.read()))
+        print('file read: {}'.format(f.readline()))
 
         conn.close()
 
