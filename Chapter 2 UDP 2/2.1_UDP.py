@@ -18,9 +18,8 @@ def server(port):
 def client(port):
     sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
     text = 'The time is {}'.format(datetime.now())
-    data = text.encode('utf-8')
-    sock.sendto(data,('127.0.0.1',port))
-    print('The OS assigned me the address {}'.format(sock.gethostname()))
+    sock.sendto(text.encode('utf-8'),('127.0.0.1',port))
+    print('The OS assigned me the address {}'.format(sock.getsockname()))
     data, address = sock.recvfrom(MAX_BYTES)  # Dangerous!
     text = data.decode('utf-8')
     print('The server {} replied {!r}'.format(address,text))
