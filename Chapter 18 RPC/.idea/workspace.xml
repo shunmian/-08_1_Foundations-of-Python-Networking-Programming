@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5bc96cf-2b9a-44ed-ad08-b85f6b7aac32" name="Default" comment="" />
-    <ignored path="Chapter 17 FTP.iws" />
+    <list default="true" id="948ad3a4-3d25-459a-8e96-dabf0930890b" name="Default" comment="" />
+    <ignored path="Chapter 18 RPC.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,50 +17,108 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Chapter 17 FTP" />
+    <favorites_list name="Chapter 18 RPC" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3_advanced download.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_advanced download.py">
+      <file leaf-file-name="1.0_RPC xmlserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.0_RPC xmlserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.3_RPC xmlclient3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.3_RPC xmlclient3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.0_RPC jsonserver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.0_RPC jsonserver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6_scanning directories.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6_scanning directories.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7_detecting directories.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7_detecting directories.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ftplib.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ftplib.py">
+      <file leaf-file-name="2.1_RPC jsonclient1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.1_RPC jsonclient1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="571" column="19" selection-start-line="571" selection-start-column="19" selection-end-line="571" selection-end-column="19" />
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testfile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testfile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.0_RPyCserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.0_RPyCserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.1_RPCclient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.1_RPCclient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socketserver.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socketserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.1_RPC xmlclient1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.1_RPC xmlclient1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.2_RPC xmlclient2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.2_RPC xmlclient2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <marker date="1476616453000" expanded="true" signature="34:481" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,18 +135,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_basic ftp.py" />
-        <option value="$PROJECT_DIR$/2_ASCII&amp;Binary Files.py" />
-        <option value="$PROJECT_DIR$/4_Uploading Data.py" />
-        <option value="$PROJECT_DIR$/3_advanced download.py" />
-        <option value="$PROJECT_DIR$/6_Scanning Directories.py" />
-        <option value="$PROJECT_DIR$/7_detecting directories.py" />
+        <option value="$PROJECT_DIR$/1_RPC xmlclient1.py" />
+        <option value="$PROJECT_DIR$/2_RPC xmlclient2.py" />
+        <option value="$PROJECT_DIR$/3_RPC xmlclient3.py" />
+        <option value="$PROJECT_DIR$/0_RPC xmlserver.py" />
+        <option value="$PROJECT_DIR$/4_RPC jsonserver.py" />
+        <option value="$PROJECT_DIR$/2.0_RPC jsonserver.py" />
+        <option value="$PROJECT_DIR$/2.1_RPC jsonclient1.py" />
+        <option value="$PROJECT_DIR$/3.1_RPCclient.py" />
+        <option value="$PROJECT_DIR$/testfile.txt" />
+        <option value="$PROJECT_DIR$/3.0_RPyCserver.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="224" />
-    <option name="y" value="30" />
+    <option name="x" value="195" />
+    <option name="y" value="27" />
     <option name="width" value="1084" />
     <option name="height" value="748" />
   </component>
@@ -121,24 +183,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 17 FTP" />
+              <option name="myItemId" value="Chapter 18 RPC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 17 FTP" />
+              <option name="myItemId" value="Chapter 18 RPC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 17 FTP" />
+              <option name="myItemId" value="Chapter 18 RPC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,8 +212,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7_detecting directories">
-    <configuration default="false" name="1_basic ftp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.1_RPCclient">
+    <configuration default="false" name="3_RPC xmlclient3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,13 +224,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_basic ftp.py" />
+      <module name="Chapter 18 RPC" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.3_RPC xmlclient3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="2_ASCII&amp;Binary Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="4_RPC jsonserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,13 +241,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_ASCII&amp;Binary Files.py" />
+      <module name="Chapter 18 RPC" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.0_RPC jsonserver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3_advanced download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="2.1_RPC jsonclient1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,13 +258,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_advanced download.py" />
+      <module name="Chapter 18 RPC" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.1_RPC jsonclient1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="6_Scanning Directories" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.0_RPyCserver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,13 +275,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_scanning directories.py" />
+      <module name="Chapter 18 RPC" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0_RPyCserver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="7_detecting directories" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.1_RPCclient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -230,8 +292,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_detecting directories.py" />
+      <module name="Chapter 18 RPC" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1_RPCclient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -247,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -262,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -274,7 +336,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -293,7 +355,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -312,7 +374,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -333,7 +395,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -355,7 +417,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 17 FTP" />
+      <module name="Chapter 18 RPC" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -371,48 +433,45 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1_basic ftp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2_ASCII&amp;Binary Files" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3_advanced download" />
-      <item index="3" class="java.lang.String" itemvalue="Python.6_Scanning Directories" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7_detecting directories" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3_RPC xmlclient3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4_RPC jsonserver" />
+      <item index="2" class="java.lang.String" itemvalue="Python.2.1_RPC jsonclient1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3.0_RPyCserver" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3.1_RPCclient" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7_detecting directories" />
-        <item index="1" class="java.lang.String" itemvalue="Python.6_Scanning Directories" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3_advanced download" />
-        <item index="3" class="java.lang.String" itemvalue="Python.2_ASCII&amp;Binary Files" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1_basic ftp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3.1_RPCclient" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.0_RPyCserver" />
+        <item index="2" class="java.lang.String" itemvalue="Python.2.1_RPC jsonclient1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4_RPC jsonserver" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3_RPC xmlclient3" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5bc96cf-2b9a-44ed-ad08-b85f6b7aac32" name="Default" comment="" />
-      <created>1476436506348</created>
+      <changelist id="948ad3a4-3d25-459a-8e96-dabf0930890b" name="Default" comment="" />
+      <created>1476583526902</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1476436506348</updated>
+      <updated>1476583526902</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="30" width="1084" height="748" extended-state="0" />
+    <frame x="195" y="27" width="1084" height="748" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20295203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35375193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.381317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -426,14 +485,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -442,72 +493,84 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.1_RPC xmlclient1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_basic ftp.py">
+    <entry file="file://$PROJECT_DIR$/1.2_RPC xmlclient2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_ASCII&amp;Binary Files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1476616453000" expanded="true" signature="34:481" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Uploading Data.py">
+    <entry file="file://$PROJECT_DIR$/1.3_RPC xmlclient3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.1_RPC jsonclient1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_advanced download.py">
+    <entry file="file://$PROJECT_DIR$/3.1_RPCclient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ftplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="571" column="19" selection-start-line="571" selection-start-column="19" selection-end-line="571" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6_scanning directories.py">
+    <entry file="file://$PROJECT_DIR$/3.0_RPyCserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_detecting directories.py">
+    <entry file="file://$PROJECT_DIR$/1.0_RPC xmlserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.0_RPC jsonserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="15" />
           <folding />
         </state>
       </provider>
