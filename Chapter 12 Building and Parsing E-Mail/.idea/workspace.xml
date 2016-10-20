@@ -20,7 +20,48 @@
     <favorites_list name="Chapter 12 Building and BParsing E-Mail" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1_Building an E-Mail Message.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_Building an E-Mail Message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_Biuld MIME Email.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_Biuld MIME Email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_Adding HTML and Multimedia.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3_Adding HTML and Multimedia.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-225">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4_Parsing Email Messages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_Parsing Email Messages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,9 +73,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/3_Adding HTML and Multimedia.py" />
+        <option value="$PROJECT_DIR$/1_Building an E-Mail Message.py" />
+        <option value="$PROJECT_DIR$/2_Biuld MIME Email.py" />
+        <option value="$PROJECT_DIR$/3_Adding HTML and Multimedia.py" />
+        <option value="$PROJECT_DIR$/4_Parsing E0mail Messages.py" />
+        <option value="$PROJECT_DIR$/4_Parsing Email Messages.py" />
       </list>
     </option>
   </component>
@@ -69,20 +112,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter 12 Building and Parsing E-Mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter 12 Building and Parsing E-Mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter 12 Building and Parsing E-Mail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Python.1_Building an E-Mail Message">
@@ -93,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Chapter 12 Building and BParsing E-Mail" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Building an E-Mail Message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -263,10 +324,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1243" height="749" extended-state="0" />
-    <editor active="false" />
+    <frame x="37" y="23" width="1243" height="749" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21802092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21802092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -301,9 +362,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
+    <entry file="file://$PROJECT_DIR$/1_Building an E-Mail Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Biuld MIME Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Adding HTML and Multimedia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Building an E-Mail Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Biuld MIME Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Building an E-Mail Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/email/policy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -311,8 +417,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/3_Adding HTML and Multimedia.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
+    <entry file="file://$PROJECT_DIR$/1_Building an E-Mail Message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Biuld MIME Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Adding HTML and Multimedia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Parsing Email Messages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
