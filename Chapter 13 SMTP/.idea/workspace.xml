@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e6bb2c0-11ba-4c4b-91f0-1a6d5296ef85" name="Default" comment="" />
-    <ignored path="Chapter 12 Building and BParsing E-Mail.iws" />
+    <list default="true" id="445a3e1e-af74-4af6-9d94-99e430b941d6" name="Default" comment="" />
+    <ignored path="chapter13 SMTP.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,10 +17,31 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Chapter 12 Building and BParsing E-Mail" />
+    <favorites_list name="chapter13 SMTP" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="13.1_Sending Email.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.1_Sending Email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13.2_Debugging.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.2_Debugging.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,9 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
-        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/3_Adding HTML and Multimedia.py" />
+        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/chapter13 SMTP/13.1_Sending Email.py" />
+        <option value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/chapter13 SMTP/13.2_Debugging.py" />
       </list>
     </option>
   </component>
@@ -70,10 +90,21 @@
     </navigator>
     <panes>
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter13 SMTP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter 13 SMTP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,27 +113,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail" />
+      <recent name="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/chapter13 SMTP" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_Building an E-Mail Message">
-    <configuration default="false" name="1_Building an E-Mail Message" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -129,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -141,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -160,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -179,7 +193,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -200,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -222,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Chapter 12 Building and BParsing E-Mail" />
+      <module name="chapter13 SMTP" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -237,28 +251,17 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.1_Building an E-Mail Message" />
-    </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.1_Building an E-Mail Message" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e6bb2c0-11ba-4c4b-91f0-1a6d5296ef85" name="Default" comment="" />
-      <created>1476165338786</created>
+      <changelist id="445a3e1e-af74-4af6-9d94-99e430b941d6" name="Default" comment="" />
+      <created>1477209663011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1476165338786</updated>
+      <updated>1477209663011</updated>
     </task>
     <servers />
   </component>
@@ -266,7 +269,7 @@
     <frame x="37" y="23" width="1243" height="749" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21802092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -278,20 +281,12 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47247708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -301,18 +296,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/email/policy.py">
+    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.1_Sending Email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/1_Building an E-Mail Message.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/3_Adding HTML and Multimedia.py" />
-    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 12 Building and BParsing E-Mail/2_Biuld MIME Email.py" />
+    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.2_Debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.1_Sending Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/-8.1 Foundations of Python Networking Programming/Chapter 13 SMTP/13.2_Debugging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
